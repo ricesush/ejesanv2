@@ -6,7 +6,8 @@
   "scripts": {
     "build": "cross-env NODE_ENV=development node node_modules/tailwindcss/lib/cli.js -i ./wwwroot/styles/tailwind.css -o ./wwwroot/portfolio.css",
     "watch": "cross-env NODE_ENV=development node node_modules/tailwind/lib/cli.js -i ./wwwroot/styles/tailwind.css -o ./wwwroot/portfolio.css --watch",
-    "release": "cross-env NODE_ENV=production node node_modules/tailwind/lib/cli.js -i ./wwwroot/styles/tailwind.css -o ./wwwroot/portfolio.css --minify"
+    "release": "cross-env NODE_ENV=production ./node_modules/tailwindcss/lib/cli.js -i ./wwwroot/styles/tailwind.css -o ./wwwroot/portfolio.css --minify",
+    "postinstall": "chmod -R 755 node_modules/.bin || exit 0"
   },
   "keywords": [],
   "author": "",
