@@ -1,0 +1,10 @@
+<NavLink data-enhance-nav="false" href="@Href" class="hover:bg-zinc-300 p-2 rounded text-nowrap"><i class="@FAIcon ms-1.5 "></i> <span class="ms-1 text-tail me-auto text-[13px]">@Label</span></NavLink>
+
+@code{
+    [Parameter]
+    public string Label { get; set; }= String.Empty;
+    [Parameter]
+    public string Href { get; set; }= String.Empty;
+    [Parameter]
+    public string FAIcon { get; set; } = String.Empty;
+}

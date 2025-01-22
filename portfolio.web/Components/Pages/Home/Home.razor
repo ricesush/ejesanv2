@@ -1,0 +1,114 @@
+﻿@page "/"
+@using portfolio.web.Utilities
+@using portfolio.web.Components.Pages.SharedComponents
+@using portfolio.web.Components.Pages.Home.Components
+
+<PageTitle>EJ Esan - Home</PageTitle>
+
+<section id="home-vue" class="flex flex-col gap-20 h-full" v-cloak>
+    <section class="flex justify-evenly p-10 pb-0">
+        <div class="h-40 w-96 border border-[#FFD70080] rounded-md shadow-md bg-zinc-100 text-center flex">
+            <div class="font-bold py-5 w-20 m-5 flex justify-center items-center">
+                <ProfilePicture />
+            </div>
+            <div class="text-start flex flex-col justify-center border-l border-l-[#FFD70080] ps-5 my-5">
+                <div class="font-bold">
+                    Erick-John E. Santosidad
+                </div>
+                <div class="text-[13px]">
+                    Full Stack Software Developer
+                </div>
+                <div class="text-[13px]">
+                    +63 999 551 4413
+                </div>
+                <div class="text-[13px]">
+                    Pixelartme@gmail.com
+                </div>
+            </div>
+        </div>
+        <div class="h-40 w-40 border rounded-md shadow-md border-[#8A2BE280] bg-[#8A2BE21A] text-center">
+            <h3 class="font-bold py-5">Tenure</h3>
+            <div class="text-[#8A2BE2] font-bold text-[20px]">
+                <ul>
+                    <li>@TenureYear yr</li>
+                    <li>@TenureMonth mo</li>
+                </ul>
+            </div>
+        </div>
+        <div class="h-40 w-40 border rounded-md shadow-md border-[#00FA9A80] bg-[#00FA9A1A] text-center">
+            <h3 class="font-bold py-5">Corporate Projects</h3>
+            <div class="text-[#18181B] font-bold text-[35px]">
+                @AppSettingsHelper.CorporateProjects
+            </div>
+        </div>
+        <div class="h-40 w-40 border rounded-md shadow-md border-[#FF69B480] bg-[#FF69B41A] text-center">
+            <h3 class="font-bold py-5">Personal Projects</h3>
+            <div class="text-[#FF69B4] font-bold text-[35px]">
+                @AppSettingsHelper.PersonalProjects
+            </div>
+        </div>
+        <div class="h-40 w-40 border rounded-md shadow-md border-[#FF450080] bg-[#FF45001A] text-center">
+            <h3 class="font-bold py-5">Total Companies</h3>
+            <div class="text-[#FF4500] font-bold text-[35px]">
+                @AppSettingsHelper.TotalCompanies
+            </div>
+        </div>
+    </section>
+    <section class="flex justify-evenly">
+        <section class="flex flex-col rounded-md ">
+            <div class="w-full text-center flex flex-col gap-10 justify-evenly flex-1 ">
+                <div class="flex-1 group rounded-md shadow-md">
+                    <div class="flex justify-between border-b">
+                        <button @click="TechStacksHandler(true)" type="button"
+                            class="flex-1 font-bold text-[20px] p-3 text-20 border-b-4 transition-all duration-200 ease-in-out"
+                            :class="{'text-sky-700 border-sky-700 rounded-t -md': techStacksNav.showMain, 'text-zinc-400 hover:text-sky-700 border-transparent': !techStacksNav.showMain}">
+                            Main Tech Stacks
+                        </button>
+                        <button @click="TechStacksHandler(false)" type="button"
+                            class="flex-1 font-bold text-[20px] p-3 text-20 border-b-4 transition-all duration-200 ease-in-out"
+                            :class="{'text-sky-700 border-sky-700 rounded-t -md': !techStacksNav.showMain, 'text-zinc-400 hover:text-sky-700 border-transparent': techStacksNav.showMain}">
+                            Other Tech stacks
+                        </button>
+                    </div>
+                    <div v-if="techStacksNav.showMain"
+                        class="grid grid-cols-5 gap-20 py-10 border-sky-700 rounded-lg px-10 text-[12px]">
+                        <Teckstack Label="C#" SRC="/img/csharp.svg.png" />
+                        <Teckstack Label="Javascript" SRC="/img/js.svg.png" />
+                        <Teckstack Label="Vue JS" SRC="/img/vuejs.svg.png" />
+                        <Teckstack Label="Blazor" SRC="/img/blazor.svg" />
+                        <Teckstack Label="Tailwind" SRC="/img/tailwind.svg.png" />
+                        <Teckstack Label=".Net Core" SRC="/img/netCore.svg.png" />
+                        <Teckstack Label="MySQL" SRC="/img/mysql.svg" />
+                        <Teckstack Label="Github" SRC="/img/github.png" />
+                        <Teckstack Label="VSCode" SRC="/img/vscode.png" />
+                    </div>
+                    <div v-else class="grid grid-cols-5 gap-20 py-10 border-sky-700 rounded-lg px-10 text-[12px]">
+                        <Teckstack Label="MongoDB" SRC="/img/MongoDB.svg.png" />
+                        <Teckstack Label="Express" SRC="/img/Express.png" />
+                        <Teckstack Label="React" SRC="/img/React.svg.png" />
+                        <Teckstack Label="NodeJS" SRC="/img/Node.js_logo.svg.png" />
+                        <Teckstack Label="PHP" SRC="/img/PHP.svg.png" />
+                        <Teckstack Label="Laravel" SRC="/img/Laravel.svg.png" />
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="flex flex-col gap-10 pt-0">
+            <div class="text-center">
+                <div class="text-[20px] font-bold">
+                    My Milestone
+                </div>
+                <div class="text-[13px] italic">
+                    "Every milestone is a miniature victory on the road to achieving your goals."
+                </div>
+            </div>
+            <div class="flex flex-col ">
+                <div class="flex-1 overflow-auto">
+                    <Milestones Milestone="Milestone" />
+                </div>
+            </div>
+        </section>
+    </section>
+</section>
+
+<script type="module" src="/Components/Pages/Home/Home.razor.js"></script>

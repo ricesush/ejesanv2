@@ -1,0 +1,90 @@
+﻿@inherits LayoutComponentBase
+
+<section class="flex overflow-hidden">
+    <div class="w-40 h-screen flex flex-col z-20 transition-width duration-200 ease-in-out" id="sidebar-container">
+        <div class="h-20 flex justify-center items-center font-bold bg-[#18181B] text-white text-[1rem] relative">
+            <NavLink href="/">
+                e<span class="text-orange-700">-</span>j <span class="text-tail">esan<span class="text-orange-700">.</span></span>
+            </NavLink>
+            <button type="button"
+                class="absolute -right-4 h-[24px] w-[24px] bg-white rounded shadow flex justify-center items-center" id="sidebar-toggler"
+                onclick="SidebarHandler()">
+                <i class="fa-solid fa-chevron-right text-[#18181B] text-[13px]"></i>
+            </button>
+        </div>
+        <div class="border-r flex-1 bg-zinc-100 overflow-hidden">
+            <SideBar />
+        </div>
+    </div>
+    <div class="h-screen flex-1 flex flex-col z-10">
+        <section class="h-20 shadow bg-zinc-100 flex gap-3 items-center justify-end shadow rounded-md bg-gray px-10 ">
+            <div class="flex flex-col text-right">
+                <span id="date-format" class="font-bold text-[13px]">
+
+                </span>
+                <span id="time-format" class="text-[13px]">
+
+                </span>
+            </div>
+            <button
+                class="border h-[40px] text-[13px] rounded-md shadow bg-[#18181B] text-white flex gap-3 justify-center items-center px-5">
+                <i class="fa-solid fa-download"></i> Resume
+            </button>
+            <button
+                class="fa-solid fa-user border h-[40px] w-[40px] text-[18x] rounded-md shadow bg-[#18181B] text-white"
+                title="Login"></button>
+            <button
+                class="fa-brands fa-linkedin border h-[40px] w-[40px] text-[18px] rounded-md shadow bg-[#18181B] text-white"
+                title="Linked In"></button>
+        </section>
+        <section class="flex-1 overflow-auto bg-gradient-to-b from-white to-zinc-100">
+            @Body
+        </section>
+        <footer class="text-[10px] text-center py-2 bg-white shadow-md">
+            Created by <span class="font-bold text-orange-700">PIXELARTME</span>. &copy; 2025. All rights reserved.
+        </footer>
+    </div>
+</section>
+
+<script>
+    @* SIDEBAR TOGGLER *@
+    const sidebardToggler = $('#sidebar-toggler')
+    const sidebarContainer = $('#sidebar-container')
+    const textTail = $('.text-tail')
+
+    @* SIDEBAR STATE *@
+    var sidebarState = {
+        collapsed: false,
+        maxWidth: 'w-40',
+        minWidth:'w-20'
+    }
+
+
+    function SidebarHandler(){
+        sidebarState.collapsed = !sidebarState.collapsed;
+
+        if(sidebarState.collapsed){
+            sidebarContainer.removeClass(sidebarState.maxWidth).addClass(sidebarState.minWidth)
+            textTail.addClass('hidden')
+        }else{
+            sidebarContainer.removeClass(sidebarState.minWidth).addClass(sidebarState.maxWidth)
+            textTail.removeClass('hidden')
+        }
+    }
+
+    function TimeAndDate() {
+        const time = $('#time-format');
+        const date = $('#date-format');
+
+        const now = new Date();
+        const optionsDate = { month: 'short', day: '2-digit', year: 'numeric' };
+        const optionsTime = { hour: '2-digit', minute: '2-digit', hour12: true };
+
+        date.text(now.toLocaleDateString('en-US', optionsDate)); 
+        time.text(now.toLocaleTimeString('en-US', optionsTime));
+    }
+
+    TimeAndDate();
+
+    setInterval(TimeAndDate, 1000);
+</script>

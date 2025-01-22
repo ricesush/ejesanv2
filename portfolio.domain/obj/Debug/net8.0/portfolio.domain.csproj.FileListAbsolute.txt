@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\bin\Debug\net8.0\portfolio.domain.deps.json
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\bin\Debug\net8.0\portfolio.domain.dll
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\bin\Debug\net8.0\portfolio.domain.pdb
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\obj\Debug\net8.0\portfolio.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\obj\Debug\net8.0\portfolio.domain.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\obj\Debug\net8.0\portfolio.domain.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\obj\Debug\net8.0\portfolio.domain.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\obj\Debug\net8.0\portfolio.domain.dll
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\obj\Debug\net8.0\refint\portfolio.domain.dll
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\obj\Debug\net8.0\portfolio.domain.pdb
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\obj\Debug\net8.0\ref\portfolio.domain.dll
