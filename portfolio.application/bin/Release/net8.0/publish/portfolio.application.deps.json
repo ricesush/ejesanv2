@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "portfolio.application/1.0.0": {
+        "dependencies": {
+          "portfolio.domain": "1.0.0"
+        },
+        "runtime": {
+          "portfolio.application.dll": {}
+        }
+      },
+      "portfolio.domain/1.0.0": {
+        "runtime": {
+          "portfolio.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "portfolio.application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "portfolio.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

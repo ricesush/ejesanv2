@@ -1,0 +1,3 @@
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\bin\Release\net8.0\publish\portfolio.infrastructure.dll
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\bin\Release\net8.0\publish\portfolio.infrastructure.deps.json
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\bin\Release\net8.0\publish\portfolio.infrastructure.pdb

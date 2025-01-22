@@ -9,3 +9,4 @@ C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\obj\Debug\ne
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\obj\Debug\net8.0\refint\portfolio.domain.dll
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\obj\Debug\net8.0\portfolio.domain.pdb
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\obj\Debug\net8.0\ref\portfolio.domain.dll
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.domain\obj\Debug\net8.0\portfolio.domain.sourcelink.json

@@ -1,0 +1,5 @@
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.application\bin\Release\net8.0\publish\portfolio.application.dll
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.application\bin\Release\net8.0\publish\portfolio.application.deps.json
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.application\bin\Release\net8.0\publish\portfolio.application.pdb
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.application\bin\Release\net8.0\publish\portfolio.domain.dll
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.application\bin\Release\net8.0\publish\portfolio.domain.pdb

@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\bin\Debug\net8.0\portfolio.infrastructure.deps.json
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\bin\Debug\net8.0\portfolio.infrastructure.dll
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\bin\Debug\net8.0\portfolio.infrastructure.pdb
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\obj\Debug\net8.0\portfolio.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\obj\Debug\net8.0\portfolio.infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\obj\Debug\net8.0\portfolio.infrastructure.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\obj\Debug\net8.0\portfolio.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\obj\Debug\net8.0\portfolio.infrastructure.sourcelink.json
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\obj\Debug\net8.0\portfolio.infrastructure.dll
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\obj\Debug\net8.0\refint\portfolio.infrastructure.dll
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\obj\Debug\net8.0\portfolio.infrastructure.pdb
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.infrastructure\obj\Debug\net8.0\ref\portfolio.infrastructure.dll
