@@ -36,3 +36,4 @@ C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\obj\Release\net
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\obj\Release\net8.0\portfolio.web.pdb
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\obj\Release\net8.0\portfolio.web.genruntimeconfig.cache
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\obj\Release\net8.0\ref\portfolio.web.dll
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\bin\Release\net8.0\vercel.json

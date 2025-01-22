@@ -36,3 +36,4 @@ C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\obj\Debug\net8.
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\obj\Debug\net8.0\portfolio.web.csproj.CopyComplete
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\obj\Debug\net8.0\scopedcss\Components\Layout\SideBar.razor.rz.scp.css
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\obj\Debug\net8.0\portfolio.web.sourcelink.json
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\bin\Debug\net8.0\vercel.json
