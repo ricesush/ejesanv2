@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\portfolio.web.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\portfolio.web.csproj": {}
   },
   "projects": {
     "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.application\\portfolio.application.csproj": {
@@ -114,14 +114,14 @@
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\portfolio.web.csproj": {
+    "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\portfolio.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\portfolio.web.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\portfolio.web.csproj",
         "projectName": "portfolio.web",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\portfolio.web.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\portfolio.web.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

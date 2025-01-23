@@ -18,46 +18,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/portfolio.web/Components/App.razor]
+[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/Portfolio.web/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/portfolio.web/Components/Layout/Components/NavLinkComponent.razor]
+[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/Portfolio.web/Components/Layout/Components/NavLinkComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQ29tcG9uZW50c1xOYXZMaW5rQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/portfolio.web/Components/Pages/Home/Components/Milestones.razor]
+[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/Portfolio.web/Components/Pages/Home/Components/Milestones.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lXENvbXBvbmVudHNcTWlsZXN0b25lcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/portfolio.web/Components/Pages/Home/Components/Teckstack.razor]
+[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/Portfolio.web/Components/Pages/Home/Components/Teckstack.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lXENvbXBvbmVudHNcVGVja3N0YWNrLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/portfolio.web/Components/Pages/Home/Home.razor]
+[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/Portfolio.web/Components/Pages/Home/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lXEhvbWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/portfolio.web/Components/Pages/Projects/Projects.razor]
+[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/Portfolio.web/Components/Pages/Projects/Projects.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9qZWN0c1xQcm9qZWN0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/portfolio.web/Components/Pages/SharedComponents/ProfilePicture.razor]
+[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/Portfolio.web/Components/Pages/SharedComponents/ProfilePicture.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaGFyZWRDb21wb25lbnRzXFByb2ZpbGVQaWN0dXJlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/portfolio.web/Components/Routes.razor]
+[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/Portfolio.web/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/portfolio.web/Components/_Imports.razor]
+[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/Portfolio.web/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/portfolio.web/Components/Layout/MainLayout.razor]
+[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/Portfolio.web/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-2n7aj4n3gv
 
-[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/portfolio.web/Components/Layout/SideBar.razor]
+[C:/Users/user/OneDrive/Desktop/Repo/portfolio-2025/Portfolio.web/Components/Layout/SideBar.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcU2lkZUJhci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-ub7e5ep2p3

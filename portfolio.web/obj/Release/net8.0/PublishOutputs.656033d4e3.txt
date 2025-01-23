@@ -1,0 +1,13 @@
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\Portfolio.web\bin\Release\net8.0\publish\portfolio.web.exe
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\Portfolio.web\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\Portfolio.web\bin\Release\net8.0\publish\appsettings.json
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\Portfolio.web\bin\Release\net8.0\publish\package-lock.json
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\Portfolio.web\bin\Release\net8.0\publish\package.json
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\Portfolio.web\bin\Release\net8.0\publish\portfolio.web.dll
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\Portfolio.web\bin\Release\net8.0\publish\portfolio.web.deps.json
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\Portfolio.web\bin\Release\net8.0\publish\portfolio.web.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\Portfolio.web\bin\Release\net8.0\publish\portfolio.web.pdb
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\Portfolio.web\bin\Release\net8.0\publish\portfolio.application.dll
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\Portfolio.web\bin\Release\net8.0\publish\portfolio.domain.dll
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\Portfolio.web\bin\Release\net8.0\publish\portfolio.application.pdb
+C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\Portfolio.web\bin\Release\net8.0\publish\portfolio.domain.pdb

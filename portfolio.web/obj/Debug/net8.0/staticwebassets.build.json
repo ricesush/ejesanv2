@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FVEMtV/MjKQWaHWD/sVdUXcKyGgrOZURYJlLDrmlYzA=",
+  "Hash": "U6oQht7E0xtDMdhTD8PDiH/WdhDeK2e0v97fZyqs9os=",
   "Source": "portfolio.web",
   "BasePath": "_content/portfolio.web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "portfolio.web\\wwwroot",
       "Source": "portfolio.web",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\Components\\Pages\\Home\\Home.razor.js",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\Components\\Pages\\Home\\Home.razor.js",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "Components/Pages/Home/Home.razor.js",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "Components\\Pages\\Home\\Home.razor.js"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\portfolio.web.styles.css",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\portfolio.web.styles.css",
       "SourceId": "portfolio.web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "portfolio.web.styles.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\portfolio.web.styles.css"
+      "OriginalItemSpec": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\portfolio.web.styles.css"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolio.web.bundle.scp.css",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolio.web.bundle.scp.css",
       "SourceId": "portfolio.web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "portfolio.web.bundle.scp.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolio.web.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolio.web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\favicon.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\blazor.svg",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\blazor.svg",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/blazor.svg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blazor.svg"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\csharp.svg.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\csharp.svg.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/csharp.svg.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\csharp.svg.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\Express.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\Express.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/Express.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Express.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\github.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\github.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/github.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\github.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\js.svg.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\js.svg.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/js.svg.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\js.svg.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\Laravel.svg.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\Laravel.svg.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/Laravel.svg.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Laravel.svg.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\MongoDB.svg.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\MongoDB.svg.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/MongoDB.svg.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\MongoDB.svg.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\mysql.svg",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\mysql.svg",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/mysql.svg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mysql.svg"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\netCore.svg.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\netCore.svg.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/netCore.svg.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\netCore.svg.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\Node.js_logo.svg.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\Node.js_logo.svg.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/Node.js_logo.svg.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Node.js_logo.svg.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\PHP.svg.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\PHP.svg.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/PHP.svg.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\PHP.svg.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\profilePic.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\profilePic.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/profilePic.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\profilePic.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\React.svg.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\React.svg.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/React.svg.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\React.svg.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\tailwind.svg.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\tailwind.svg.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/tailwind.svg.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\tailwind.svg.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\vscode.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\vscode.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/vscode.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vscode.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\vuejs.svg.png",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\vuejs.svg.png",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "img/vuejs.svg.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vuejs.svg.png"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\portfolio.css",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\portfolio.css",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "portfolio.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\portfolio.css"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\styles\\tailwind.css",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\styles\\tailwind.css",
       "SourceId": "portfolio.web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\",
       "BasePath": "_content/portfolio.web",
       "RelativePath": "styles/tailwind.css",
       "AssetKind": "All",
