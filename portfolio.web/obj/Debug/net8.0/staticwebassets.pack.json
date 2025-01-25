@@ -1,87 +1,107 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\Components\\Pages\\Home\\Home.razor.js",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\Components\\Pages\\Home\\Home.razor.js",
       "PackagePath": "staticwebassets\\Components\\Pages\\Home\\Home.razor.js"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolio.web.bundle.scp.css",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\portfolio.web.bundle.scp.css",
       "PackagePath": "staticwebassets\\portfolio.web.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\Express.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\Express.png",
       "PackagePath": "staticwebassets\\img\\Express.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\Laravel.svg.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\Laravel.svg.png",
       "PackagePath": "staticwebassets\\img\\Laravel.svg.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\MongoDB.svg.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\MongoDB.svg.png",
       "PackagePath": "staticwebassets\\img\\MongoDB.svg.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\Node.js_logo.svg.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\Node.js_logo.svg.png",
       "PackagePath": "staticwebassets\\img\\Node.js_logo.svg.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\PHP.svg.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\PHP.svg.png",
       "PackagePath": "staticwebassets\\img\\PHP.svg.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\React.svg.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\PSEConnectAccounts\\PSECAccounts.png",
+      "PackagePath": "staticwebassets\\img\\PSEConnectAccounts\\PSECAccounts.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\PSEConnectAccounts\\PSEConnectAccounts.png",
+      "PackagePath": "staticwebassets\\img\\PSEConnectAccounts\\PSEConnectAccounts.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\PSEConnectWeb\\PSEConnectBrokersPage.png",
+      "PackagePath": "staticwebassets\\img\\PSEConnectWeb\\PSEConnectBrokersPage.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\PSEConnectWeb\\PSEConnectHomPage.png",
+      "PackagePath": "staticwebassets\\img\\PSEConnectWeb\\PSEConnectHomPage.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\PSEConnectWeb\\PSEConnectMarketPage.png",
+      "PackagePath": "staticwebassets\\img\\PSEConnectWeb\\PSEConnectMarketPage.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\React.svg.png",
       "PackagePath": "staticwebassets\\img\\React.svg.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\blazor.svg",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\blazor.svg",
       "PackagePath": "staticwebassets\\img\\blazor.svg"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\csharp.svg.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\csharp.svg.png",
       "PackagePath": "staticwebassets\\img\\csharp.svg.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\github.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\github.png",
       "PackagePath": "staticwebassets\\img\\github.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\js.svg.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\js.svg.png",
       "PackagePath": "staticwebassets\\img\\js.svg.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\mysql.svg",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\mysql.svg",
       "PackagePath": "staticwebassets\\img\\mysql.svg"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\netCore.svg.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\netCore.svg.png",
       "PackagePath": "staticwebassets\\img\\netCore.svg.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\profilePic.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\profilePic.png",
       "PackagePath": "staticwebassets\\img\\profilePic.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\tailwind.svg.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\tailwind.svg.png",
       "PackagePath": "staticwebassets\\img\\tailwind.svg.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\vscode.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\vscode.png",
       "PackagePath": "staticwebassets\\img\\vscode.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\img\\vuejs.svg.png",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\img\\vuejs.svg.png",
       "PackagePath": "staticwebassets\\img\\vuejs.svg.png"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\portfolio.css",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\portfolio.css",
       "PackagePath": "staticwebassets\\portfolio.css"
     },
     {
-      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\Portfolio.web\\wwwroot\\styles\\tailwind.css",
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Repo\\portfolio-2025\\portfolio.web\\wwwroot\\styles\\tailwind.css",
       "PackagePath": "staticwebassets\\styles\\tailwind.css"
     },
     {

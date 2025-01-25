@@ -6,7 +6,7 @@
 <PageTitle>EJ Esan - Home</PageTitle>
 
 <section id="home-vue" class="flex flex-col gap-20 h-full" v-cloak>
-    <section class="flex justify-evenly p-10 pb-0">
+    <section class="flex justify-between py-10 pb-0">
         <div class="h-40 w-96 border border-[#FFD70080] rounded-md shadow-md bg-zinc-100 text-center flex">
             <div class="font-bold py-5 w-20 m-5 flex justify-center items-center">
                 <ProfilePicture />
@@ -54,11 +54,177 @@
             </div>
         </div>
     </section>
-    <section class="flex justify-evenly">
+    <section class="text-center">
+        <div class="text-[20px] font-bold">
+            Featured Projects
+        </div>
+        <div class="text-[13px] italic">
+            "Projects which have reached production."
+        </div>
+    </section>
+    <section class="grid grid-cols-2 gap-10">
+        <div class="h-96 flex flex-col shadow-md">
+            <div class="font-bold bg-gradient-to-r from-transparent to-white p-2 text-[20px] border-l-4 border-sky-700">
+                PSEConnect Public Web
+            </div>
+            <div class="bg-white shadow-md flex-1 border-gradient-to-r from-transparent to-white bg-[url('/img/PSEConnectWeb/PSEConnectHomPage.png')] bg-center bg-cover">
+                
+            </div>
+        </div>
+        <div class="h-96 flex flex-col shadow-md">
+            <div class="font-bold bg-gradient-to-r from-transparent to-white p-2 text-[20px] border-l-4 border-sky-700">
+                PSEConnect Accounts
+            </div>
+            <div class="bg-white shadow-md flex-1 border-gradient-to-r from-transparent to-white bg-[url('/img/PSEConnectAccounts/PSEConnectAccounts.png')] bg-center bg-cover">
+
+            </div>
+        </div>
+        <section class="h-96 flex text-nowrap overflow-y-auto grid grid-cols gap-5 bg-white">
+            <div class="flex flex-col gap-5">
+                <div class="border-l-4 border-sky-700 ps-3 sticky top-0 bg-white shadow-md py-2">
+                    <i class="fa-solid fa-list-check"></i> <span class="font-bold">Corporate Projects</span>
+                </div>
+                <div class="flex flex-wrap gap-5 px-5">
+                    <span class="rounded-lg border p-4 text-[13px] flex flex-col gap-1 shadow-md bg-white">
+                        <div class="font-bold flex items-center gap-2">
+                            <span class="flex items-center justify-center h-2 w-2 rounded-full bg-green-500"
+                                title="Live"></span> PSEConnect Public
+                        </div>
+                        <div>
+                            Stock Exchange Public Website
+                        </div>
+                        <NavLink href="https://pseconnect.com/"
+                            class="rounded-full border bg-[#18181B] px-2 p-1 mt-2 text-white flex justify-center items-center flex-0"
+                            target="_blank" title="Visit">
+                            pseconnect.com
+                        </NavLink>
+                    </span>
+                    <span class="rounded-lg border p-4 text-[13px] flex flex-col gap-1 shadow-md bg-white">
+                        <div class="font-bold flex items-center gap-2">
+                            <span class="flex items-center justify-center h-2 w-2 rounded-full bg-green-500"
+                                title="Live"></span> PSEConnect Accounts
+                        </div>
+                        <div>
+                            Single Sign-On Page
+                        </div>
+                        <NavLink href="https://accounts.pseconnect.com/"
+                            class="rounded-full border bg-[#18181B] px-2 p-1 mt-2 text-white flex justify-center items-center flex-0"
+                            target="_blank" title="Visit">
+                            accounts.pseconnect.com
+                        </NavLink>
+                    </span>
+                    <span class="rounded-lg border p-4 text-[13px] flex flex-col gap-1 shadow-md bg-white">
+                        <div class="font-bold flex items-center gap-2">
+                            <span class="flex items-center justify-center h-2 w-2 rounded-full bg-yellow-500"
+                                title="In Progress"></span> PSE Asset Management System
+                        </div>
+                        <div>
+                            For tracking PSE's assets
+                        </div>
+                        <NavLink href="#"
+                            class="rounded-full border bg-[#18181B] px-2 p-1 mt-2 text-white flex justify-center items-center flex-0"
+                            target="_blank" title="Not yet live.">
+                            In Progress.
+                        </NavLink>
+                    </span>
+                    <span class="rounded-lg border p-4 text-[13px] flex flex-col gap-1 shadow-md bg-white">
+                        <div class="font-bold flex items-center gap-2">
+                            <span class="flex items-center justify-center h-2 w-2 rounded-full bg-yellow-500"
+                                title="In Progress"></span> PSE Backoffice - Amendment
+                        </div>
+                        <div>
+                            Microservice for Amendments.
+                        </div>
+                        <NavLink href="#"
+                            class="rounded-full border bg-[#18181B] px-2 p-1 mt-2 text-white flex justify-center items-center flex-0"
+                            target="_blank" title="Not yet live.">
+                            In Progress.
+                        </NavLink>
+                    </span>
+                    <span class="rounded-lg border p-4 text-[13px] flex flex-col gap-1 shadow-md bg-white">
+                        <div class="font-bold flex items-center gap-2">
+                            <span class="flex items-center justify-center h-2 w-2 rounded-full bg-yellow-500"
+                                title="In Progress"></span> PDS Group Website
+                        </div>
+                        <div>
+                            Stock Exchange Platform.
+                        </div>
+                        <NavLink href="#"
+                            class="rounded-full border bg-[#18181B] px-2 p-1 mt-2 text-white flex justify-center items-center flex-0"
+                            target="_blank" title="Not yet live.">
+                            In Progress.
+                        </NavLink>
+                    </span>
+                    <span class="rounded-lg border p-4 text-[13px] flex flex-col gap-1 shadow-md bg-white">
+                        <div class="font-bold flex items-center gap-2">
+                            <span class="flex items-center justify-center h-2 w-2 rounded-full bg-yellow-500"
+                                title="In Progress"></span> Wecap
+                        </div>
+                        <div>
+                            Stocks Exchange Platform.
+                        </div>
+                        <NavLink href="#"
+                            class="rounded-full border bg-[#18181B] px-2 p-1 mt-2 text-white flex justify-center items-center flex-0"
+                            target="_blank" title="Not yet live.">
+                            In Progress.
+                        </NavLink>
+                    </span>
+                </div>
+            </div>
+            <div class="flex flex-col gap-5">
+                <div class="border-l-4 border-sky-700 ps-3 sticky top-0 bg-white py-2 shadow-md">
+                    <i class="fa-solid fa-list-check"></i> <span class="font-bold">Personal Projects</span>
+                </div>
+                <div class="flex flex-wrap gap-5 px-5">
+                    <span class="rounded-lg border p-4 text-[13px] flex flex-col gap-1 shadow-md bg-white">
+                        <div class="font-bold flex items-center gap-2">
+                            <span class="flex items-center justify-center h-2 w-2 rounded-full bg-green-500"
+                                title="Live"></span> GG Next
+                        </div>
+                        <div>
+                            Website For searching games.
+                        </div>
+                        <NavLink href="https://gg-next-neon.vercel.app/"
+                            class="rounded-full border bg-[#18181B] px-2 p-1 mt-2 text-white flex justify-center items-center flex-0"
+                            target="_blank" title="Visit">
+                            gg-next-neon.vercel.app
+                        </NavLink>
+                    </span>
+                    <span class="rounded-lg border p-4 text-[13px] flex flex-col gap-1 shadow-md bg-white">
+                        <div class="font-bold flex items-center gap-2">
+                            <span class="flex items-center justify-center h-2 w-2 rounded-full bg-green-500"
+                                title="Live"></span> Green fields
+                        </div>
+                        <div>
+                            Informative Website For Hydrophonics.
+                        </div>
+                        <NavLink href="https://thegreenhouse.vercel.app/"
+                            class="rounded-full border bg-[#18181B] px-2 p-1 mt-2 text-white flex justify-center items-center flex-0"
+                            target="_blank" title="Visit">
+                            thegreenhouse.vercel.app
+                        </NavLink>
+                    </span>
+                    <span class="rounded-lg border p-4 text-[13px] flex flex-col gap-1 shadow-md bg-white">
+                        <div class="font-bold flex items-center gap-2">
+                            <span class="flex items-center justify-center h-2 w-2 rounded-full bg-red-500"
+                                title="Down"></span> Dream Fields
+                        </div>
+                        <div>
+                            Website For a Real Estate Company.
+                        </div>
+                        <NavLink href="#"
+                            class="rounded-full border bg-[#18181B] px-2 p-1 mt-2 text-white flex justify-center items-center flex-0"
+                            target="_blank" title="Site is down.">
+                            Site is down.
+                        </NavLink>
+                    </span>
+                </div>
+            </div>
+        </section>
         <section class="flex flex-col rounded-md ">
             <div class="w-full text-center flex flex-col gap-10 justify-evenly flex-1 ">
-                <div class="flex-1 group rounded-md shadow-md">
-                    <div class="flex justify-between border-b">
+                <div class="flex-1 group rounded-md">
+                    <div class="flex justify-between border-b bg-white shadow-md">
                         <button @click="TechStacksHandler(true)" type="button"
                             class="flex-1 font-bold text-[20px] p-3 text-20 border-b-4 transition-all duration-200 ease-in-out"
                             :class="{'text-sky-700 border-sky-700 rounded-t -md': techStacksNav.showMain, 'text-zinc-400 hover:text-sky-700 border-transparent': !techStacksNav.showMain}">
@@ -71,7 +237,7 @@
                         </button>
                     </div>
                     <div v-if="techStacksNav.showMain"
-                        class="grid grid-cols-5 gap-20 py-10 border-sky-700 rounded-lg px-10 text-[12px]">
+                        class="grid grid-cols-5 gap-10 py-10 border-sky-700 rounded-lg px-10 text-[12px]">
                         <Teckstack Label="C#" SRC="/img/csharp.svg.png" />
                         <Teckstack Label="Javascript" SRC="/img/js.svg.png" />
                         <Teckstack Label="Vue JS" SRC="/img/vuejs.svg.png" />
@@ -82,7 +248,7 @@
                         <Teckstack Label="Github" SRC="/img/github.png" />
                         <Teckstack Label="VSCode" SRC="/img/vscode.png" />
                     </div>
-                    <div v-else class="grid grid-cols-5 gap-20 py-10 border-sky-700 rounded-lg px-10 text-[12px]">
+                    <div v-else class="grid grid-cols-5 gap-10 py-10 border-sky-700 rounded-lg px-10 text-[12px]">
                         <Teckstack Label="MongoDB" SRC="/img/MongoDB.svg.png" />
                         <Teckstack Label="Express" SRC="/img/Express.png" />
                         <Teckstack Label="React" SRC="/img/React.svg.png" />
@@ -93,21 +259,21 @@
                 </div>
             </div>
         </section>
-        <section class="flex flex-col gap-10 pt-0">
-            <div class="text-center">
-                <div class="text-[20px] font-bold">
-                    My Milestone
-                </div>
-                <div class="text-[13px] italic">
-                    "Every milestone is a miniature victory on the road to achieving your goals."
-                </div>
+    </section>
+    <section class="flex flex-col gap-10 pt-0 pb-10">
+        <div class="text-center">
+            <div class="text-[20px] font-bold">
+                My Milestone
             </div>
-            <div class="flex flex-col ">
-                <div class="flex-1 overflow-auto">
-                    <Milestones Milestone="Milestone" />
-                </div>
+            <div class="text-[13px] italic">
+                "Every milestone is a miniature victory on the road to achieving your goals."
             </div>
-        </section>
+        </div>
+        <div class="flex flex-col ">
+            <div class="flex-1 overflow-auto">
+                <Milestones Milestone="Milestone" />
+            </div>
+        </div>
     </section>
 </section>
 
