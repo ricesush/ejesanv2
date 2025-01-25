@@ -3,7 +3,6 @@ C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\bin\Release\net
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\bin\Release\net8.0\publish\appsettings.json
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\bin\Release\net8.0\publish\package-lock.json
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\bin\Release\net8.0\publish\package.json
-C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\bin\Release\net8.0\publish\vercel.json
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\bin\Release\net8.0\publish\portfolio.web.dll
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\bin\Release\net8.0\publish\portfolio.web.deps.json
 C:\Users\user\OneDrive\Desktop\Repo\portfolio-2025\portfolio.web\bin\Release\net8.0\publish\portfolio.web.runtimeconfig.json

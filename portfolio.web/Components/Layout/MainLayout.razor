@@ -3,38 +3,43 @@
 
 <section class="flex overflow-hidden">
     <div class="h-screen flex-1 flex flex-col z-10 mx-auto">
-        <section class="h-20 shadow bg-zinc-100 flex justify-between items-center shadow rounded-md bg-gray px-96">
-            <div>
-                <NavLink href="/" class="items-center font-bold">
-                    e<span class="text-orange-700">-</span>j <span class="text-tail">esan<span
-                            class="text-orange-700">.</span></span>
-                </NavLink>
-                @* <NavLinkComponent FAIcon="fa-solid fa-house" Href="/" Label="Dashboard" />
+        <section class="shadow bg-zinc-100 px-5 shadow">
+            <div class="max-w-[1420px] h-20 flex justify-between items-center bg-gray mx-auto">
+                <div>
+                    <NavLink href="/" class="items-center font-bold">
+                        e<span class="text-orange-700">-</span>j <span class="text-tail">esan<span
+                                class="text-orange-700">.</span></span>
+                    </NavLink>
+                    @* <NavLinkComponent FAIcon="fa-solid fa-house" Href="/" Label="Dashboard" />
                 <NavLinkComponent FAIcon="fa-solid fa-laptop-code" Href="/projects" Label="Projects" /> *@
-                @* <NavLinkComponent FAIcon="fa-regular fa-address-card" Href="/about" Label="About" /> *@
-            </div>
-            <div class="flex gap-3">
-                <div class="flex flex-col text-right">
-                    <span id="date-format" class="font-bold text-[13px]">
-
-                    </span>
-                    <span id="time-format" class="text-[13px]">
-
-                    </span>
+                    @* <NavLinkComponent FAIcon="fa-regular fa-address-card" Href="/about" Label="About" /> *@
                 </div>
-                <NavLink href="https://drive.google.com/file/d/1IatqTeUcJfXDKNyLD_Q38HeFjYLTyYEe/view?usp=sharing"
-                    target="_target"
-                    class="border h-[40px] text-[13px] rounded-md shadow bg-[#18181B] text-white flex gap-3 justify-center items-center px-5">
-                    <i class="fa-solid fa-download"></i> Resume
-                </NavLink>
-                <NavLink href="https://www.linkedin.com/in/ejsan/" target="_blank" title="Linked In"
-                    class="border h-[40px] w-[40px] text-[18x] rounded-md shadow bg-[#18181B] text-white">
-                    <button class="fa-brands fa-linkedin border h-[40px] w-[40px] text-[18x]" title="Login"></button>
-                </NavLink>
+                <div class="flex gap-3">
+                    <div class="flex flex-col text-right">
+                        <span id="date-format" class="font-bold text-[13px]">
+
+                        </span>
+                        <span id="time-format" class="text-[13px]">
+
+                        </span>
+                    </div>
+                    <NavLink href="https://drive.google.com/file/d/1IatqTeUcJfXDKNyLD_Q38HeFjYLTyYEe/view?usp=sharing"
+                        target="_target"
+                        class="border h-[40px] text-[13px] rounded-md shadow bg-[#18181B] text-white flex gap-3 justify-center items-center px-5">
+                        <i class="fa-solid fa-download"></i> Resume
+                    </NavLink>
+                    <NavLink href="https://www.linkedin.com/in/ejsan/" target="_blank" title="Linked In"
+                        class="border h-[40px] w-[40px] text-[18x] rounded-md shadow bg-[#18181B] text-white">
+                        <button class="fa-brands fa-linkedin border h-[40px] w-[40px] text-[18x]"
+                            title="Login"></button>
+                    </NavLink>
+                </div>
             </div>
         </section>
-        <section class="flex-1 overflow-auto bg-gradient-to-b from-white to-zinc-100 px-96">
-            @Body
+        <section class="flex-1 overflow-auto bg-gradient-to-b from-white to-zinc-100 px-5">
+            <div class="max-w-[1420px] mx-auto">
+                @Body
+            </div>
         </section>
         <footer class="text-[10px] text-center py-2 bg-white shadow-md">
             Created by <span class="font-bold text-orange-700">PIXELARTME</span>. &copy;@DateTime.Now.Year. All rights
