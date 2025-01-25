@@ -54,6 +54,27 @@
             </div>
         </div>
     </section>
+    <section class="lg:flex lg:gap-5">
+        <div>
+            <section class="text-center">
+                <div class="text-[20px] font-bold">
+                    About
+                </div>
+                <div class="text-[13px] italic">
+                    "Do what you love, and love what you do."
+                </div>
+            </section>
+            <div class="mt-10 indent-8 border rounded-md shadow-md p-10 text-white bg-[#18181B]">
+                Proficient in a diverse range of technologies, with a strong emphasis on C#, Blazor, Vue.js, and MySQL.
+                A
+                dedicated team player who can also deliver efficiently when working solo.
+
+                I love creating web applications and addressing modern challenges. I strive to develop web apps that
+                offer
+                users an exceptional experience, ensuring functionality and features are seamlessly integrated.
+            </div>
+        </div>
+    </section>
     <section class="text-center">
         <div class="text-[20px] font-bold">
             Featured Projects
@@ -230,15 +251,10 @@
                         <i class="fa-solid fa-flask"></i> <span class="font-bold">Primary Techstacks</span>
                     </div>
                     <div class="grid grid-cols-5 gap-10 py-10 border-sky-700 rounded-lg px-10 text-[12px]">
-                        <Teckstack Label="C#" SRC="/img/csharp.svg.png" />
-                        <Teckstack Label="Javascript" SRC="/img/js.svg.png" />
-                        <Teckstack Label="Vue JS" SRC="/img/vuejs.svg.png" />
-                        <Teckstack Label="Blazor" SRC="/img/blazor.svg" />
-                        <Teckstack Label="Tailwind" SRC="/img/tailwind.svg.png" />
-                        <Teckstack Label=".Net Core" SRC="/img/netCore.svg.png" />
-                        <Teckstack Label="MySQL" SRC="/img/mysql.svg" />
-                        <Teckstack Label="Github" SRC="/img/github.png" />
-                        <Teckstack Label="VSCode" SRC="/img/vscode.png" />
+                        @foreach (var item in PrimaryStacks)
+                        {
+                            <Teckstack Label="@item.Label" SRC="@item.Src" />
+                        }
                     </div>
                 </div>
                 <div class="shadow-md bg-white rounded-md overflow-hidden">
@@ -246,12 +262,10 @@
                         <i class="fa-solid fa-flask"></i> <span class="font-bold">Other Techstacks</span>
                     </div>
                     <div class="grid grid-cols-5 gap-10 py-10 border-t rounded-lg px-10 text-[12px]">
-                        <Teckstack Label="MongoDB" SRC="/img/MongoDB.svg.png" />
-                        <Teckstack Label="Express" SRC="/img/Express.png" />
-                        <Teckstack Label="React" SRC="/img/React.svg.png" />
-                        <Teckstack Label="NodeJS" SRC="/img/Node.js_logo.svg.png" />
-                        <Teckstack Label="PHP" SRC="/img/PHP.svg.png" />
-                        <Teckstack Label="Laravel" SRC="/img/Laravel.svg.png" />
+                        @foreach (var item in SecondaryStacks)
+                        {
+                            <Teckstack Label="@item.Label" SRC="@item.Src" />
+                        }
                     </div>
                 </div>
             </div>

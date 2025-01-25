@@ -1,0 +1,48 @@
+@using static portfolio.web.Utilities.GlobalEnums
+<span class="rounded-lg border p-4 text-[13px] flex flex-col gap-1 shadow-md bg-white">
+    <div class="font-bold flex items-center gap-2">
+        <span class="flex items-center justify-center h-2 w-2 rounded-full @Bg" title="@StatusDesc"></span> @Label
+    </div>
+    <div>
+        @Description
+    </div>
+    <NavLink href="@Href"
+        class="rounded-full border bg-[#18181B] px-2 p-1 mt-2 text-white flex justify-center items-center flex-0"
+        target="_blank" title="@StatusDesc">
+        @StatusDesc
+    </NavLink>
+</span>
+
+@code {
+    [Parameter]
+    public ProjectStatus ProjectStatus
+    {
+        set
+        {
+            switch (value)
+            {
+                case ProjectStatus.Down:
+                    Bg = "bg-red-500";
+                    StatusDesc = "Site is down.";
+                    break;
+                case ProjectStatus.Live:
+                    Bg = "bg-green-500";
+                    StatusDesc = "Live";
+                    break;
+                case ProjectStatus.Ongoing:
+                    Bg = "bg-yellow-500";
+                    StatusDesc = "Ongoing Project";
+                    break;
+            }
+        }
+    }
+
+    [Parameter]
+    public string Label { get; set; } = String.Empty;
+    [Parameter]
+    public string Description { get; set; } = String.Empty;
+    [Parameter]
+    public string Href { get; set; } = "#";
+    public string Bg { get; set; } = String.Empty;
+    public string StatusDesc { get; set; } = String.Empty;
+}
